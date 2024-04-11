@@ -1,0 +1,24 @@
+.header {
+  border-bottom: 1px solid #5a727c;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 0;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 65px;
+}
+
+.link {
+  font-weight: 500;
+  font-size: 18px;
+  color: #1D120C;
+}
+
+

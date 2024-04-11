@@ -1,0 +1,19 @@
+.card_item_info {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.color {
+  color: #5c8a9e;
+}
+
+.text {
+  color: #1d120c;
+}

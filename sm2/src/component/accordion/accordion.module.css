@@ -1,0 +1,18 @@
+.item {
+  margin: 20px 0;
+}
+
+.question {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 10px;
+  background-color: #5a727c;
+  color: #edeeea;
+  border-radius: 4px;
+}
+
+.content {
+  background-color: #edeeea;
+  padding: 20px 10px;
+}
